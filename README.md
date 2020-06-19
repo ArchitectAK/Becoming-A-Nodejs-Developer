@@ -6,18 +6,18 @@ This series include steps to `become nodejs develoeprs` for begginner to experie
 
 # Courses included in this learning path are
 
-- Learning Node.js
-- Node.js Essential Training
-- Learning npm - the Node Package Manager
-- Building a Website with Node.js and Express.js
-- Databases for Node.js Developers
-- Node.js: Testing and Code Quality
-- Express Essential Training
-- Node.js: Securing RESTful APIs
-- Node.js: Security
-- Building RESTful APIs with Node.js and Express
-- Node.js: Real-Time Web with Socket.IO
-- Node.js: Deploying Applications
+1. [Learning Node.js](#learning--node.js)
+1. Node.js Essential Training
+1. Learning npm - the Node Package Manager
+1. Building a Website with Node.js and Express.js
+1. Databases for Node.js Developers
+1. Node.js: Testing and Code Quality
+1. Express Essential Training
+1. Node.js: Securing RESTful APIs
+1. Node.js: Security
+1. Building RESTful APIs with Node.js and Express
+1. Node.js: Real-Time Web with Socket.IO
+1. Node.js: Deploying Applications
 
 Deatiled list of topics of courses with github repo link
 
