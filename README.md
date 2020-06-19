@@ -1,8 +1,8 @@
 # Becoming-A-Nodejs-Developer
 
-Learning path for becoming nodejs developer from zero to hero. This repo is pratical coding based on LinkedIn Learning Path [Become a Node.js Developer](https://www.linkedin.com/learning/paths/become-a-node-js-developer?u=43767380)
+Learning path for becoming nodejs developer from zero to hero. This repo is practical coding based on LinkedIn Learning [Path Become a Node.js Developer] (https://www.linkedin.com/learning/paths/become-a-node-js-developer?u=43767380)
 
-This series include steps to `become nodejs develoeprs` for begginner to experienced developers.
+These series includes steps to become nodejs developers for beginner to experienced developers
 
 # Courses included in this learning path are
 
