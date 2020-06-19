@@ -6,7 +6,7 @@ This series include steps to `become nodejs develoeprs` for begginner to experie
 
 # Courses included in this learning path are
 
-1. [Learning Node.js](#learning--node.js)
+1. [Learning Node.js](#learningnode.js)
 1. Node.js Essential Training
 1. Learning npm - the Node Package Manager
 1. Building a Website with Node.js and Express.js
@@ -21,7 +21,9 @@ This series include steps to `become nodejs develoeprs` for begginner to experie
 
 Deatiled list of topics of courses with github repo link
 
-## Learning Node.js - [Source Code](https://github.com/AnkitDroidGit/Learning-Node.js)
+## Learning Node.js
+
+- [Source Code](https://github.com/AnkitDroidGit/Learning-Node.js)
 
 ### 1. Introduction to Node -
 
