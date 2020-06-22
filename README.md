@@ -35,7 +35,14 @@ Deatiled list of topics of courses with github repo link
 - Asynchrounous tasks and callbacks
 
 ### 2. Understanding NPM: Node Package Manager
+
 - Write your own module
 - Manage third-party package with npm
 - What is package.json file?
+
+### 3. Reading and Writing files
+
+- Reading from files
+- Access directories
+- Write to a file
 
