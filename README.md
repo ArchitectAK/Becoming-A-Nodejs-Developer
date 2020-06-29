@@ -46,3 +46,16 @@ Deatiled list of topics of courses with github repo link
 - Access directories
 - Write to a file
 
+### 4. Exploring Web framework
+
+- Node.js framwework
+- Express
+- Socket.io
+
+### 5. Demo Chat App Client for the browser
+
+- Static serving with Express
+- Creating browser app
+- Create a get messages service
+- Create a post messages service
+- Connect to Socket.io from the browser app
